@@ -1,0 +1,3 @@
+[database]
+url = "sqlite:///Users/samuelatagana/Library/Application Support/dev.warp.Warp-Stable/warp.sqlite"
+
